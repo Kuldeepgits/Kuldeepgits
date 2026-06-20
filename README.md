@@ -16,5 +16,5 @@ Hi, I'm Kuldeep 👋<br><br>Full-Stack Developer with experience building scalab
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Kuldeepgits&label=Profile%20Views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=Kuldeepgits&label=Profile%20Views)
 
