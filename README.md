@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi, I'm Kuldeep 👋<br><br>Full-Stack Developer with experience building scalable applications using .NET, MERN, and Java Spring Boot.<br><br>💼 Former .NET Full Stack Developer Intern at Cognizant, where I contributed to a fintech remittance platform using ASP.NET Core, React, Entity Framework Core, and SQL Server.<br><br>🔹 Backend:  ASP.NET Core, C#, C++, Java, Spring Boot, Node.js, Express.js<br>🔹 Frontend: React.js, JavaScript, HTML, CSS<br>🔹 Databases: SQL Server, MongoDB, MySQL<br>🔹 Tools: Docker, Git, GitHub, Postman<br><br>I enjoy designing clean architectures, building secure APIs, optimizing performance, and turning ideas into production-ready products.<br><br>Currently seeking Full-Stack, Backend, and Software Engineering opportunities.
+Hi, I'm Kuldeep 👋<br><br>🚀 Full-Stack Developer with experience building scalable applications using .NET, MERN, and Java Spring Boot.<br>
+<br>💼 Ex-Cognizant Intern  <br>
+<br>🏗️ Built FinTech, eCommerce, and Real-Time Communication Platforms <br> 
+<br>⚡ Strong in ASP.NET Core, React, Spring Boot, Node.js, SQL Server & MongoDB  <br>
+<br>🔒 Passionate about Secure APIs, Clean Architecture & Performance Optimization  <br>
+<br>🚀 Open to Software Engineer, Backend, and Full-Stack opportunities<br><br>🔹 Backend:  ASP.NET Core, C#, C++, Java, Spring Boot, Node.js, Express.js<br>🔹 Frontend: React.js, JavaScript, HTML, CSS<br>🔹 Databases: SQL Server, MongoDB, MySQL<br>🔹 Tools: Docker, Git, GitHub, Postman<br>
+<br>I enjoy designing clean architectures, building secure APIs, optimizing performance, and turning ideas into production-ready products.<br>
+<br>📫 Currently seeking Full-Stack, Backend, and Software Engineering opportunities.
 
 
 ## 🌐 Socials:
